@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 远行
+title: [填词]远行
 date: 2011-09-26
 Author: 闲茶
 categories: 
@@ -8,7 +8,7 @@ tags: [歌词, 随感]
 comments: true
 --- 
 
-> [曲：蒼穹のファフナー 祐未の気持ち](https://music.163.com/#/song?id=573100439)
+[曲：蒼穹のファフナー 祐未の気持ち](https://music.163.com/#/song?id=573100439)
 
 是与日相逐的古卷和残章  
 是桂魄月宫的旧诗行  
@@ -33,5 +33,3 @@ comments: true
 是飞鸟守着天空流浪  
 是魂牵梦绕 倾心信仰  
 望不尽的水阔山长  
-
-2011-9-19 21:08/2011-9-26 18:45
