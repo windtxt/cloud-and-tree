@@ -4,11 +4,11 @@ title: 远行
 date: 2011-09-26
 Author: 闲茶
 categories: 
-tags: [歌词]
+tags: [歌词, 随感]
 comments: true
 --- 
 
-曲：蒼穹のファフナー 祐未の気持ち
+> [曲：蒼穹のファフナー 祐未の気持ち](https://music.163.com/#/song?id=573100439)
 
 是与日相逐的古卷和残章  
 是桂魄月宫的旧诗行  
