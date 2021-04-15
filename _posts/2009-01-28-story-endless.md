@@ -4,7 +4,7 @@ title: ［仙剑·遥灵］无尽
 date: 2009-01-28
 Author: 灵馨
 categories: 
-tags: [仙剑, 赵灵儿]
+tags: [仙剑, 赵灵儿, 同人]
 comments: true
 --- 
 不管蜀山的人们承不承认，当年江湖上声名显赫的逍遥大侠终是老了。  
