@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [填词]远行
+title: 填词 | 远行
 date: 2011-09-26
 Author: 闲茶
 categories: 
