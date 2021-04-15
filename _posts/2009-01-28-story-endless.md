@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ［仙剑］无尽
+title: ［仙剑·遥灵］无尽
 date: 2009-01-28
 Author: 灵馨
 categories: 
